@@ -14,4 +14,3 @@ Our motivation is gotten from a Reality TV show competition in Nigeria called Bi
 
 ### DATA SET AND DATA COLLECTION:
 We are taking advantage of the fact that the show is currently ongoing, and we are trying to gather tweets about the show using the hashtag #bbnaija. We plan to extract between 500,000 to 1,000,000 tweets on this Hashtag. The good thing is that twitter has a feature that allows developers to download streams of tweets as they are being posted into a database. This feature is accessed through the twitter streaming API. We have already connected to twitter using twitter streaming API and we have been able to gather 262,801 tweets. This number is increasing daily and we would stop when we reach the 500,000 tweets target or if we still have enough time, we would gather up to 1,000,000 tweets.
-![image](https://user-images.githubusercontent.com/48253625/156244489-b2f23858-6692-46a1-9052-5efbc7a23fa9.png)
